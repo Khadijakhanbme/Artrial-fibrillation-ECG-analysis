@@ -98,8 +98,7 @@ All five HRV features showed **statistically significant differences** (p < 0.00
 
 ```text
 AFib_Analysis/
-├── src/               # Python scripts (Steps 1–11)
-├── Data/              # Records, features, statistical results
-├── Results/           # Generated plots
+├── src/               # Python scripts (Steps 1–11)            
+├── Results/           # Important plots
 └── requirements.txt   # Dependencies
 ```
