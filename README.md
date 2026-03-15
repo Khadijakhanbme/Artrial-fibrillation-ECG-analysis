@@ -83,12 +83,10 @@ All five HRV features showed **statistically significant differences** (p < 0.00
 - The AF–Normal distinction was consistent across all patient records, supporting generalizability.
 
 ### Statistical Comparison — Normal vs AF
-
-![Statistical Comparison](Results/11_statistical_comparison.png)
+![Statistical Comparison](Results/Statistical%20Test%20-%20All%20records.png)
 
 ### Per-Record Breakdown
-
-![Per-Record Comparison](Results/11_per_record_comparison.png)
+![Per-Record Comparison](Results/Per%20Subect%20HRV.png)
 
 ---
 
